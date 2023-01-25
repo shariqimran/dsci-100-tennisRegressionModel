@@ -2,19 +2,17 @@
 
 **Contributors:** Shariq Imran Hassan, Nelson Li, Sanidhya Singh, Logan Hale
 
-##Introduction
+## Introduction
 For our project we will analyze player stats for the Top 500 tennis players. Tennis is a racket sport played on courts everywhere. Some major tournaments include Wimbledon, US Open, Australian Open, and French Open. Our dataset contains a variety of information including the player’s age, handedness, name, height, seasons, etc.
 
 In this project, we aim to answer the following question:
 
-###Can you predict a tennis player's career earnings based on their profile?
+### Can you predict a tennis player's career earnings based on their profile?
+<br>
 
 We believe that this question is important for sports agents and tennis players so they have a greater ability to predict their future earnings. Sports agents are paid based on how much their clients (the athletes) make, so it would be very beneficial for them to have some ability to predict this amount. It will also be useful for players to be able to predict their future earnings and determine what factors have a large impact on their earnings. If they understand what factors have the biggest impact on their earnings they will be able to set goals for themselves and be set up for monetary success.
 
-##Discussion
-The question we had initially sought to answer was:
-
-###Can you predict a tennis player’s career earnings based on their profile?
+## Discussion/Analysis
 
 We compared the total earnings of tennis player's with multiple parameters such as Age, Current Rank, Best Rank, and Seasons Played. We ran a KNN regression on each parameter and tested multiple K-values to reach the best and most accurate predictor of Career Earnings. As shown above, in both Seasons Played, Age and Career Earnings had a weak positive relationship. This was as expected since Seasons Played and Age are both related to each other as well. Current Rank and Best Rank both revealed an inverse relationship with Career Earnings. Once again, this was as expected since a higher rank can reasonably be associated with a prize money amount.
 
@@ -26,16 +24,16 @@ After analyzing each predictor variable, we concluded the best rank to be the op
 
 These findings give rise to other questions related to or building upon this study such as:
 
-What other variables affect career earnings in tennis?
+1. What other variables affect career earnings in tennis?
 
-What combination of predictor variables will produce the smallest RMSPE?
+2. What combination of predictor variables will produce the smallest RMSPE?
 
-Does a player's likability (in modern social media) affect career earnings?
+3. Does a player's likability (in modern social media) affect career earnings?
 
-Does the tennis prize money model work the same in men’s tennis and women’s tennis?
+4. Does the tennis prize money model work the same in men’s tennis and women’s tennis?
 
-Can tournaments win be a better predictor for this model?
+5. Can tournaments win be a better predictor for this model?
 
-How does tennis’s prize money model compare with other sports' prize money models?
+6. How does tennis’s prize money model compare with other sports' prize money models?
 
-Can we correlate prize money (more specifically tournaments won) to sponsorship money, hence creating a model where we understand how tournaments won impact sponsorship money?
+7. Can we correlate prize money (more specifically tournaments won) to sponsorship money, hence creating a model where we understand how tournaments won impact sponsorship money?
