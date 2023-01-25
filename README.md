@@ -2,6 +2,8 @@
 
 **Contributors:** Shariq Imran Hassan, Nelson Li, Sanidhya Singh, Logan Hale
 
+**Project Goal:** Formulate a Predictive Question and answer it using a simple classfier and regression model
+
 ## Introduction
 For our project we will analyze player stats for the Top 500 tennis players. Tennis is a racket sport played on courts everywhere. Some major tournaments include Wimbledon, US Open, Australian Open, and French Open. Our dataset contains a variety of information including the player’s age, handedness, name, height, seasons, etc.
 
