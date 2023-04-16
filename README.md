@@ -23,7 +23,7 @@ After trial and error, we concluded that the overall Best Rank was the most accu
 
 Initially, we had expected that Best Rank would be the best predictor for the total Career Earnings as prize money is usually dependent on the number of sponsors a player can get as well as their popularity. It is reasonable to assume that players who rank higher are more popular and more commercially viable than players with lower ranks. We had also expected that Best Rank would be inversely related to Career Earnings. Both of our initial hypotheses were supported by our findings.
 
-We presume any athlete would want to know how to reach financial independence knowing how short their careers last and as well as knowing how a critical injury/occurrence can impact their career drastically, albeit impacting them financially as well. These findings bring valuable insight and a much clearer view for tennis athletes and their agents who have such mindsets where they can now understand how to extract the most out of the sport financially. T
+We presume any athlete would want to know how to reach financial independence knowing how short their careers last and as well as knowing how a critical injury/occurrence can impact their career drastically, albeit impacting them financially as well. These findings bring valuable insight and a much clearer view for tennis athletes and their agents who have such mindsets where they can now understand how to extract the most out of the sport financially.
 
 These findings give rise to other questions related to or building upon this study such as:
 
